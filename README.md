@@ -1,1 +1,1 @@
-# MicroServicesArchitecture-Docker-Spring-boot-Activity
+# MicroServicesArchitecture-Spring-boot-Docker-Activity
