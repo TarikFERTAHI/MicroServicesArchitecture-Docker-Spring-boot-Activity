@@ -26,8 +26,6 @@ services:
     ports:
       - "8089:8089"
     depends_on:
-      - customer-service
-      - billing-service
       - eureka-service
     environment:
       - eureka.client.service-url.defaultZone=http://eureka-service:8761/eureka
