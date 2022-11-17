@@ -4,3 +4,19 @@
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/62752474/139606564-1271af13-8c9c-437f-b6c5-0b10335e6605.PNG"><img src="https://user-images.githubusercontent.com/62752474/139606564-1271af13-8c9c-437f-b6c5-0b10335e6605.PNG" alt="architectureProjet" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/62752474/139606568-f1c6e08b-32e9-40e6-b5ad-e983bc837df1.PNG"><img src="https://user-images.githubusercontent.com/62752474/139606568-f1c6e08b-32e9-40e6-b5ad-e983bc837df1.PNG" alt="architectureProjet1" style="max-width: 100%;"></a></p>
+
+<li> Customer Service
+<br></br>
+<img src="https://github.com/TarikFERTAHI/MicroServicesArchitecture-Docker-Spring-boot-Activity/blob/main/pics/customer.png">
+<li> Billing-Service
+<br></br>
+<img src="https://github.com/TarikFERTAHI/MicroServicesArchitecture-Docker-Spring-boot-Activity/blob/main/pics/billig.png">
+<li> Eureka Service
+<br></br>
+<img src="https://github.com/TarikFERTAHI/MicroServicesArchitecture-Docker-Spring-boot-Activity/blob/main/pics/eureka.png">
+<li> Docker Images
+<br></br>
+<img src="https://github.com/TarikFERTAHI/MicroServicesArchitecture-Docker-Spring-boot-Activity/blob/main/pics/dockerimgs.png">
+<li> Eureka Services
+<br></br>
+<img src="https://github.com/TarikFERTAHI/MicroServicesArchitecture-Docker-Spring-boot-Activity/blob/main/pics/eurekaServices.png">
